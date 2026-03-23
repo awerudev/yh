@@ -1,5 +1,0 @@
-# Track large files (like PSDs or videos) using Git Large File Storage (LFS)
-# Note: Git LFS must be installed separately
-# *.psd filter=lfs diff=lfs merge=lfs -text
-# *.mp4 filter=lfs diff=lfs merge=lfs -text
-*.zip filter=lfs diff=lfs merge=lfs -text
